@@ -1,3 +1,5 @@
 nginx
 pytorch/pytorch:2.6.0-cuda11.8-cudnn9-devel
 qwenllm/qwen-omni:2.5-cu121
+jianjungki/mineru:latest
+
